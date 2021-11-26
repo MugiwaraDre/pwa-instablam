@@ -32,11 +32,6 @@ div #root {
 `;
 
 export const Root = styled.main`
-  background: #7b8fff;
-  background: -webkit-linear-gradient(bottom, #7b8fff, #c4f2ff);
-  background: -moz-linear-gradient(bottom, #7b8fff, #c4f2ff);
-  background: linear-gradient(to top, #7b8fff, #c4f2ff);
-
   display: flex;
   flex-flow: column;
   align-items: center;
